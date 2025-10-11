@@ -33,8 +33,6 @@ There are two primary target files ` hwdef-bl.dat (responsible for building boot
 
 Checkout this HW files for reference example :   https://github.com/ArduPilot/ardupilot/tree/master/libraries/AP_HAL_ChibiOS/hwdef/fmuv3
 
-### For pin mapping use STM programmer IDE 
-
 ## Schematic & PCB 
 Check schematic folder  
 The pcb is 2 layer 47 * 60 mm  
@@ -48,3 +46,13 @@ The pcb is 2 layer 47 * 60 mm
   <img src="doc/pcb_back_v1.0.png" alt="pcb_back_v1.0 H473" width="45%">
 </p>
 
+## STM programmer IDE
+- Pin Selection : 
+  ![STM programmer IDE](doc/pinModeSTMH743.png)
+
+- For clocks use 8,16,24,32 MHz crystal (odd multiples causes issues)  
+  ![STM programmer IDE](doc/stmclksettings.png)
+  ![STM programmer IDE](doc/stm1.png)
+  ![STM programmer IDE](doc/stm1.png)
+
+## end of file 
