@@ -1,3 +1,4 @@
+# THE PCB design has Some Flaws , regarding Signalling , ONLY TO BE USED as REFFRENCE FOR now 
 # CUSTOM FlightController-H743
 The repo contains flight controller target files, PCB Gerber files, and the schematic.
 
