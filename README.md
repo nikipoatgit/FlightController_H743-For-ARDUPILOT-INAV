@@ -5,7 +5,7 @@ The repo contains flight controller target files, PCB Gerber files, and the sche
 
 
 ## FC notes 
-Nickel-H473 is based on MAMBAH743_V4 FC
+Nickel-H473 is inspired from MAMBAH743_V4 FC
 
 However custom pin can be used unless their usage is not compromised , STM programmer IDE can be a great help in case assigning pins.
 
