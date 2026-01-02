@@ -1,11 +1,11 @@
-# THE PCB design has Some Flaws IN DESIGN  ONLY TO BE USED as REFFRENCE FOR now  
+# THE PCB design has Some Flaws IN DESIGN  ONLY TO BE USED as REFFRENCE  
 # NOTE THE  CIRCUIT schematic IS Correct  
 # CUSTOM FlightController-H743
 The repo contains flight controller target files, PCB Gerber files, and the schematic.
 
 
 ## FC notes 
-Nickel-H473 is based on MAMBAH743_V4 FC
+Nickel-H473 is inspired from MAMBAH743_V4 FC
 
 However custom pin can be used unless their usage is not compromised , STM programmer IDE can be a great help in case assigning pins.
 
